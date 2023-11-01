@@ -4,3 +4,4 @@ string name="Umidjon";
 System.Console.WriteLine($"Hello, {name}");
 int age = 18;
 System.Console.WriteLine($"You are {age} years old!");
+System.Console.WriteLine($"{name} is {age} y.o!");
